@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Search News
 //
-//  Created by Siva Rama Lingam S (BLR GSS) on 9/28/21.
+//  Created by Siva Rama Lingam S on 9/28/21.
 //
 
 import UIKit
