@@ -16,6 +16,7 @@
 		704229012702FE0A00C1FFE1 /* NewsResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704229002702FE0A00C1FFE1 /* NewsResult.swift */; };
 		704229032702FFA500C1FFE1 /* SearchNewsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704229022702FFA500C1FFE1 /* SearchNewsViewModel.swift */; };
 		7042290527031A0D00C1FFE1 /* SearchNewsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042290427031A0D00C1FFE1 /* SearchNewsTableViewCell.swift */; };
+		70422907270330CF00C1FFE1 /* SearchNewsWebServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70422906270330CF00C1FFE1 /* SearchNewsWebServices.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		704229002702FE0A00C1FFE1 /* NewsResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsResult.swift; sourceTree = "<group>"; };
 		704229022702FFA500C1FFE1 /* SearchNewsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNewsViewModel.swift; sourceTree = "<group>"; };
 		7042290427031A0D00C1FFE1 /* SearchNewsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNewsTableViewCell.swift; sourceTree = "<group>"; };
+		70422906270330CF00C1FFE1 /* SearchNewsWebServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNewsWebServices.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		704228FF2702FDE800C1FFE1 /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				70422906270330CF00C1FFE1 /* SearchNewsWebServices.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70422907270330CF00C1FFE1 /* SearchNewsWebServices.swift in Sources */,
 				7042290527031A0D00C1FFE1 /* SearchNewsTableViewCell.swift in Sources */,
 				704228E22702EA4500C1FFE1 /* AppDelegate.swift in Sources */,
 				704228F62702EDF300C1FFE1 /* SearchNewsViewController.swift in Sources */,
