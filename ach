@@ -1,0 +1,39 @@
+Here’s the plain text version (no formatting, no symbols) so you can copy it directly into an email or document:  
+
+***
+
+Virtusa (Dec 2021 – Present)
+
+Client: ADIB – Abu Dhabi Islamic Bank (Aug 2024 – Present)  
+Minor-to-Major Account Migration: Led the full development of a digital Minor-to-Major migration journey, enabling minors to seamlessly upgrade their accounts via deep link integration in the ADIB Mobile App. Automated closure, document re-verification (EFR), product & card selection — delivered within tight timelines. Achieved 52% adoption, leading to higher account conversions and digital engagement.  
+Minor Dashboard: Designed a consolidated dashboard-view enabling parents to manage all minor accounts, cards, and transfers, enhancing convenience and transparency.  
+Visa Direct Integration: Integrated Visa Direct for instant transfers using alias, card, and account numbers, improving cross-border transaction speed and customer experience.  
+ODD (Resident & Non-Resident): Implemented comprehensive On Due Diligence flows to allow customers to securely update verification documents, ensuring compliance with regulatory standards.  
+Onboarding via UAE PASS: Delivered UAE PASS authentication integration, enabling secure identity verification and automatic document retrieval (Emirates ID, Passport). With 72% of new customers already onboarded via mobile, this enhancement further boosts digital adoption.  
+KYC Management: Automated Emirates ID and passport expiry tracking, ensuring continuous compliance and real-time record updates.  
+Recognition: Honored with the 2025 Excellence Award for outstanding contribution to ADIB’s digital transformation and delivery innovation.  
+
+Client: Virgin Money – UK (Feb 2023 – Apr 2024)  
+Led strategic evaluation and integration of Runtime Application Self-Protection (RASP) solutions to elevate mobile app security standards. Represented the engineering team in vendor assessments (Appdome, OneSpan, Verimatrix) to finalize the best-fit RASP for Virgin Money’s mobile ecosystem.  
+Designed and implemented Verimatrix RASP integration within Azure CI/CD pipelines, automating runtime threat detection and validation across environments.  
+Architected a centralized common framework for managing third-party dependencies, used across 30+ internal frameworks and Flutter modules, improving maintainability and build efficiency.  
+Modernized iOS mobile applications using SwiftUI and modular architecture, enhancing performance, scalability, and security.  
+
+Client: Uber India R&D (Dec 2021 – Jan 2023)  
+Drove mobile growth initiatives under the Rider Growth team to improve global user engagement and revenue opportunities.  
+Led development of localized onboarding and analytics workflows to ensure regulatory compliance and strengthen acquisition funnels.  
+Collaborated with product and marketing teams on large-scale experiments (E2R, Ride to Store) to boost conversion and ecosystem connectivity.  
+Recognized for strong technical execution in RIB-based architecture, ensuring modular scalability and maintainability in high-traffic production apps.  
+
+Nous Infosystems (Oct 2014 – Nov 2021)  
+Led the development of multiple enterprise-grade iOS and Xamarin applications across education, healthcare, and insurance, delivering robust, high-performance mobile solutions.  
+Built and optimized multi-environment CI pipelines, integrated analytics and biometrics, and practiced test-driven development for reliability and maintainability.  
+Delivered an ML-based proof of concept using TensorFlow Lite for remote patient monitoring, enabling image classification through iPhone camera input.  
+Handled App Store submissions for five production apps, managing provisioning, compliance, and multi-environment release coordination.  
+Recognized as “Star Performer” three consecutive years for exemplary delivery, innovation, and commitment to project excellence.  
+
+***
+
+Would you like me to make a brief two-line summary at the top (for email subject or intro to your manager)?
+
+Sources
